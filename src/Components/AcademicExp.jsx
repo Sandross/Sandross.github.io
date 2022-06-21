@@ -59,7 +59,7 @@ export default function AcademicExp() {
                     </p>
                 </li>
             <li>
-                <h3>SENAI</h3>
+                <h3>SENAI-MG</h3>
                 <p>
                     <strong>Aprendizagem Industrial em Processos Logísticos</strong>
                     <br />
