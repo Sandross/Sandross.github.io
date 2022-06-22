@@ -61,7 +61,7 @@ export default function AcademicExp() {
             <li>
                 <h3>SENAI-FIEMG</h3>
                 <p>
-                    <strong>Aprendizagem Industrial em Processos Logísticos</strong>
+                    <strong>Aprendizagem Industrial Em Processos Logísticos</strong>
                     <br />
                     <em>
                         <strong>
