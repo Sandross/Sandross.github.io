@@ -48,7 +48,7 @@ export default function AcademicExp() {
       <ul>
       <li>
                 <h4>Controladoria e Finanças</h4>
-                <p>
+                <p> 
                     <strong>UFMG</strong>
                     <br />
                     <em>
@@ -59,7 +59,7 @@ export default function AcademicExp() {
                     </p>
                 </li>
             <li>
-                <h3>SENAI</h3>
+                <h3>SENAI-FIEMG</h3>
                 <p>
                     <strong>Aprendizagem Industrial em Processos Logísticos</strong>
                     <br />
